@@ -1,12 +1,42 @@
-# React + Vite
+# Tienda de Ropa - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una simulación de tienda de ropa online desarrollada con React.  
+Incluye un carrito funcional y se trabajó sobre buenas prácticas del manejo de estados, hooks y componentes reutilizables. Fue pensado como ejercicio profesional para portfolio y entrevistas.
 
-Currently, two official plugins are available:
+## Funcionalidades desarrolladas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Catálogo de productos con imágenes
+- Agregar, eliminar y modificar cantidades en el carrito
+- Sidebar animado para visualizar el carrito
+- Botón "Finalizar compra" con mensaje de agradecimiento y reseteo del carrito
+- Estilizado profesional usando CSS y Bootstrap
+- Navbar fijo y responsive
+- Proyecto desplegado en Netlify
 
-## Expanding the ESLint configuration
+## Vista previa online
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[Ver la tienda funcionando en Netlify](https://tienda-ropa-react.netlify.app)
+
+## Tecnologías usadas
+
+- React
+- JavaScript
+- Vite
+- Bootstrap
+- CSS
+- Deploy en Netlify
+
+## Objetivo del proyecto
+
+Mostrar dominio en:
+- Componentes React reutilizables
+- Hooks (useState)
+- Manejo de estado en componentes padres e hijos
+- Estilizado profesional CSS + Bootstrap
+- Lógica básica de un carrito de compras (aumentar/disminuir cantidades, vaciar carrito)
+- Deploy profesional en Netlify para portfolio
+
+## Perfil Profesional
+
+Desarrollador Frontend con conocimientos sólidos en React, JavaScript y CSS.  
+Este proyecto está orientado a demostrar habilidades para la industria del e-commerce, UX/UI y buenas prácticas de desarrollo.
